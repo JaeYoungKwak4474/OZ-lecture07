@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "day01",
+			"path": "."
+		},
+		{
+			"name": "day02",
+			"path": "../day02"
+		},
+		{
+			"name": "day03",
+			"path": "../day03"
+		},
+		{
+			"name": "day04",
+			"path": "../day04"
+		},
+		{
+			"name": "day06",
+			"path": "../day06"
+		},
+		{
+			"name": "Day07",
+			"path": "../Day07"
+		},
+		{
+			"name": "day05",
+			"path": "../day05"
+		}
+	]
+}
